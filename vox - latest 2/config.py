@@ -30,7 +30,7 @@ for _d in [ASSETS_DIR, LOGS_DIR, DATA_DIR, FACES_DIR,
 # ═══════════════════════════════════════════════
 #  API KEYS
 # ═══════════════════════════════════════════════
-GEMINI_API_KEY        = "AIzaSyDzgnRnbnywm6muGT5wFp5n6dC0UpEpQjQ"   # Get from aistudio.google.com
+GEMINI_API_KEY        = "Get from aistudio.google.com"   # Get from aistudio.google.com
 PICOVOICE_ACCESS_KEY  = ""
 
 # ═══════════════════════════════════════════════
