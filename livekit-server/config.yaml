@@ -1,0 +1,11 @@
+port: 7880
+bind_addresses:
+  - "127.0.0.1"
+rtc:
+  port_range_start: 50000
+  port_range_end: 50200
+  use_external_ip: false
+keys:
+  vox-dev-key: "vox-dev-secret"
+logging:
+  level: "info"

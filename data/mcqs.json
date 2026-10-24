@@ -1,0 +1,40 @@
+[
+    {
+        "q": "What is the capital of France?",
+        "a": "paris",
+        "options": [
+            "Paris",
+            "London",
+            "Berlin"
+        ]
+    },
+    {
+        "q": "What is 5 plus 7?",
+        "a": "12",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ]
+    },
+    {
+        "q": "Which planet is known as the Red Planet?",
+        "a": "mars",
+        "options": [
+            "Earth",
+            "Jupiter",
+            "Mars",
+            "Venus"
+        ]
+    },
+    {
+        "q": "What does CPU stand for?",
+        "a": "central processing unit",
+        "options": [
+            "Central Processing Unit",
+            "Computer Personal Unit",
+            "Central Processor Utility"
+        ]
+    }
+]
